@@ -2,7 +2,6 @@
 
 I’m a **Master 2 student in Intelligent Computer Systems (AI)** and a **motivated Full-Stack Web & Mobile Developer**.  
 I combine my expertise in **Artificial Intelligence** with **web and mobile development** to create **smart, scalable, and user-friendly digital solutions**.  
-Currently, I’m actively integrating **AI technologies into web and mobile applications**, bridging the gap between cutting-edge intelligence and practical development.
 
 
 ## 🔭 Currently Working On 
@@ -12,10 +11,6 @@ Currently, I’m actively integrating **AI technologies into web and mobile appl
 ## 👀 Interests
 - AI, Web Development, Mobile Apps
 - Data Mining, Machine Learning, Deep Learning, NLP, Computer Vision  
-
-## 💞️ Open To
-- Collaborate on **Web & AI projects**  
-
 
 
 ## 🔧 My Skills
