@@ -1,14 +1,26 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="100" />
+</p>
+
 # 👋 Hi, I’m **MEZIOUG Liza**
 
-👀 I’m specialized in **Artificial Intelligence** and **Full-Stack Web Development**.  
+I’m a **Master 2 student in Intelligent Computer Systems (AI)** and a **motivated Full-Stack Web & Mobile Developer**.  
+I combine my expertise in **Artificial Intelligence** with **web and mobile development** to create **smart, scalable, and user-friendly digital solutions**.  
+Currently, I’m actively integrating **AI technologies into web and mobile applications**, bridging the gap between cutting-edge intelligence and practical development.
 
-💞️ I’m looking to collaborate on **AI-integrated web development projects**.  
 
-📫 How to reach me: [lizamezioug22@gmail.com](mailto:lizamezioug22@gmail.com) | [LinkedIn](https://www.linkedin.com/in/liza-mezioug-b09829333/)  
+## 🔭 Currently Working On 
+- AI projects
+- WEB & Mobile developmnet 
 
-✨ I am passionate about coding and constantly exploring **new technologies and AI innovations**.  
+## 👀 Interests
+- AI, Web Development, Mobile Apps
+- Data Mining, Machine Learning, Deep Learning, NLP, Computer Vision  
 
----
+## 💞️ Open To
+- Collaborate on **Web & AI projects**  
+
+
 
 ## 🔧 My Skills
 
@@ -26,6 +38,8 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -33,18 +47,23 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
----
+### AI / Data Science
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Data Mining](https://img.shields.io/badge/Data_Mining-4CAF50?style=for-the-badge&logo=apachehadoop&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-007ACC?style=for-the-badge&logo=opencv&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-6A1B9A?style=for-the-badge&logo=python&logoColor=white)
+![Metaheuristics](https://img.shields.io/badge/Metaheuristics-FF4081?style=for-the-badge&logo=python&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-3F51B5?style=for-the-badge&logo=python&logoColor=white)
 
-## 🚀 AI & Web Integration
-I’m **exploring advanced AI technologies** to integrate smarter solutions into web applications.  
-- Machine Learning & Deep Learning concepts applied to web solutions  
-- NLP, computer vision, recommendation systems  
-- AI-powered web features for dynamic, intelligent user experiences
 
----
 
-## 🌱 Currently
-Constantly improving skills in **AI, Full-Stack Development, and cloud deployment** to contribute to innovative projects.  
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lizamezioug&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lizamezioug&layout=compact&theme=radical)
 
----
 
+<p align="center">
+  🌱 I’m always learning new technologies and exploring innovative approaches to improve my skills.  
+  🤝 Open to collaborate on **AI, Web & Mobile development projects** and eager to contribute to exciting opportunities.
+</p>
