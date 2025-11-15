@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120" />
-</p>
-
-
 # 👋 Hi, I’m **MEZIOUG Liza**
 
 I’m a **Master 2 student in Intelligent Computer Systems (AI)** and a **motivated Full-Stack Web & Mobile Developer**.  
