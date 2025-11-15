@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120" />
 </p>
+
 
 # 👋 Hi, I’m **MEZIOUG Liza**
 
